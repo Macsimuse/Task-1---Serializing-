@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStaff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Staff>
+    <Name>Max</Name>
+    <LastName>Kucheruk</LastName>
+    <Age>24</Age>
+    <gender>Male</gender>
+  </Staff>
+  <Staff>
+    <Name>Yuri</Name>
+    <LastName>Kovalchjuk</LastName>
+    <Age>29</Age>
+    <gender>Male</gender>
+  </Staff>
+  <Staff>
+    <Name>Olga</Name>
+    <LastName>Bartosh</LastName>
+    <Age>25</Age>
+    <gender>Female</gender>
+  </Staff>
+  <Staff>
+    <Name>Sergei</Name>
+    <LastName>Saharov</LastName>
+    <Age>39</Age>
+    <gender>Male</gender>
+  </Staff>
+  <Staff>
+    <Name>Nastja</Name>
+    <LastName>Koval</LastName>
+    <Age>21</Age>
+    <gender>Female</gender>
+  </Staff>
+</ArrayOfStaff>

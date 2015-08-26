@@ -1,0 +1,6 @@
+D:\ForTesting\SerializingDocument\SerializingDocument\bin\Debug\SerializingDocument.exe
+D:\ForTesting\SerializingDocument\SerializingDocument\bin\Debug\SerializingDocument.pdb
+D:\ForTesting\SerializingDocument\SerializingDocument\obj\x86\Debug\SerializingDocument.exe
+D:\ForTesting\SerializingDocument\SerializingDocument\obj\x86\Debug\SerializingDocument.pdb
+H:\SerializingDocument\SerializingDocument\obj\x86\Debug\SerializingDocument.exe
+H:\SerializingDocument\SerializingDocument\obj\x86\Debug\SerializingDocument.pdb

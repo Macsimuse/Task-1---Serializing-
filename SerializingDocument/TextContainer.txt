@@ -1,0 +1,6 @@
+﻿
+		Task one
+1. First Download a file and than try to Serialized it in Xml File.
+2. Use for it System Xml.Serializing;
+3. Then open Xml file to see result.
+4. Good Luck!
